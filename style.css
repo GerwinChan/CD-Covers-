@@ -1,7 +1,7 @@
 body, html {
     font-family: fantasy;
     background-color:azure;
-    font-size: .em;
+    
     text-align: center;
 }
 
@@ -29,7 +29,7 @@ body, html {
     margin-left: 125px;
     float: left;
     position: relative;
-    border: 5px solid black;tex
+    border: 5px solid black;
 
 
   position: relative;
@@ -155,6 +155,14 @@ height: 300px;
 .album1:hover {
 	animation: bounce 1s;
 }
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    border: 0;
+    margin: auto;
+}
+
 
 
 
